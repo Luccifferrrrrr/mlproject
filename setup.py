@@ -23,5 +23,5 @@ version ='0.0.1',
 author = 'Aman',
 author_email= 'amansingh7599ji@gmail.com',
 packages = find_packages(),
-install_requires = get_requirements('requirements.txt')
+install_requires = get_requirements('requirements.txt')  # OR provide list[.....]
 )
