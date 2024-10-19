@@ -1,4 +1,8 @@
 pandas
 numpy
 seaborn 
--e .         # this will trigger setup.py to build packages 
+matplotlib
+scikit-learn
+catboost
+xgboost
+# -e .         # this will trigger setup.py to build packages 
